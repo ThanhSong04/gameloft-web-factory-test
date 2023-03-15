@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4360815a.css",
+    "main.js": "/static/js/main.440f0438.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/section1-bg.jpg": "/static/media/section1-bg.5557870a324f658ac404.jpg",
+    "static/media/events_promotions1.png": "/static/media/events_promotions1.a99eb304b9a2d490abb3.png",
+    "static/media/events_promotions2.png": "/static/media/events_promotions2.abd93db0819105a3987c.png",
+    "static/media/events_promotions3.png": "/static/media/events_promotions3.0c38cc292dc6d078e36f.png",
+    "static/media/ImgRegister.png": "/static/media/ImgRegister.35cfbaea91a3c481d911.png",
+    "static/media/GangstarVegasJessie.png": "/static/media/GangstarVegasJessie.8ac3ddcd2ebc1046c728.png",
+    "index.html": "/index.html",
+    "main.4360815a.css.map": "/static/css/main.4360815a.css.map",
+    "main.440f0438.js.map": "/static/js/main.440f0438.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4360815a.css",
+    "static/js/main.440f0438.js"
+  ]
+}
