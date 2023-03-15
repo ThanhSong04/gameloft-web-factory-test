@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/deploy-github/static/css/main.23d7a4f6.css",
-    "main.js": "/deploy-github/static/js/main.c0e7e097.js",
-    "static/js/787.28cb0dcd.chunk.js": "/deploy-github/static/js/787.28cb0dcd.chunk.js",
-    "static/media/section1-bg.jpg": "/deploy-github/static/media/section1-bg.5557870a324f658ac404.jpg",
-    "static/media/events_promotions1.png": "/deploy-github/static/media/events_promotions1.a99eb304b9a2d490abb3.png",
-    "static/media/events_promotions2.png": "/deploy-github/static/media/events_promotions2.abd93db0819105a3987c.png",
-    "static/media/events_promotions3.png": "/deploy-github/static/media/events_promotions3.0c38cc292dc6d078e36f.png",
-    "static/media/ImgRegister.png": "/deploy-github/static/media/ImgRegister.35cfbaea91a3c481d911.png",
-    "static/media/GangstarVegasJessie.png": "/deploy-github/static/media/GangstarVegasJessie.8ac3ddcd2ebc1046c728.png",
-    "index.html": "/deploy-github/index.html",
-    "main.23d7a4f6.css.map": "/deploy-github/static/css/main.23d7a4f6.css.map",
-    "main.c0e7e097.js.map": "/deploy-github/static/js/main.c0e7e097.js.map",
-    "787.28cb0dcd.chunk.js.map": "/deploy-github/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/gameloft-web-factory-test/static/css/main.2729842f.css",
+    "main.js": "/gameloft-web-factory-test/static/js/main.5d79b0fb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gameloft-web-factory-test/static/js/787.28cb0dcd.chunk.js",
+    "static/media/section1-bg.jpg": "/gameloft-web-factory-test/static/media/section1-bg.5557870a324f658ac404.jpg",
+    "static/media/events_promotions1.png": "/gameloft-web-factory-test/static/media/events_promotions1.a99eb304b9a2d490abb3.png",
+    "static/media/events_promotions2.png": "/gameloft-web-factory-test/static/media/events_promotions2.abd93db0819105a3987c.png",
+    "static/media/events_promotions3.png": "/gameloft-web-factory-test/static/media/events_promotions3.0c38cc292dc6d078e36f.png",
+    "static/media/ImgRegister.png": "/gameloft-web-factory-test/static/media/ImgRegister.35cfbaea91a3c481d911.png",
+    "static/media/GangstarVegasJessie.png": "/gameloft-web-factory-test/static/media/GangstarVegasJessie.8ac3ddcd2ebc1046c728.png",
+    "index.html": "/gameloft-web-factory-test/index.html",
+    "main.2729842f.css.map": "/gameloft-web-factory-test/static/css/main.2729842f.css.map",
+    "main.5d79b0fb.js.map": "/gameloft-web-factory-test/static/js/main.5d79b0fb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gameloft-web-factory-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23d7a4f6.css",
-    "static/js/main.c0e7e097.js"
+    "static/css/main.2729842f.css",
+    "static/js/main.5d79b0fb.js"
   ]
 }
