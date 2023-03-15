@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploy-github/static/css/main.23d7a4f6.css",
-    "main.js": "/deploy-github/static/js/main.238cdf3b.js",
+    "main.js": "/deploy-github/static/js/main.c0e7e097.js",
     "static/js/787.28cb0dcd.chunk.js": "/deploy-github/static/js/787.28cb0dcd.chunk.js",
     "static/media/section1-bg.jpg": "/deploy-github/static/media/section1-bg.5557870a324f658ac404.jpg",
     "static/media/events_promotions1.png": "/deploy-github/static/media/events_promotions1.a99eb304b9a2d490abb3.png",
@@ -11,11 +11,11 @@
     "static/media/GangstarVegasJessie.png": "/deploy-github/static/media/GangstarVegasJessie.8ac3ddcd2ebc1046c728.png",
     "index.html": "/deploy-github/index.html",
     "main.23d7a4f6.css.map": "/deploy-github/static/css/main.23d7a4f6.css.map",
-    "main.238cdf3b.js.map": "/deploy-github/static/js/main.238cdf3b.js.map",
+    "main.c0e7e097.js.map": "/deploy-github/static/js/main.c0e7e097.js.map",
     "787.28cb0dcd.chunk.js.map": "/deploy-github/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23d7a4f6.css",
-    "static/js/main.238cdf3b.js"
+    "static/js/main.c0e7e097.js"
   ]
 }
