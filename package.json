@@ -2,7 +2,7 @@
   "name": "gameloft-web-factory-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thanhsong04.github.io/gameloft-web-factory-test/",
+  "homepage": "https://thanhsong04.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-regular-svg-icons": "^6.3.0",
